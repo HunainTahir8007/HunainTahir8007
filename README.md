@@ -14,10 +14,10 @@
 
 Software Engineering undergraduate specializing in Applied AI and Machine Learning, with deep competency in custom deep learning architectures and autonomous multi-agent systems. Proficient in PyTorch, LangGraph, Hugging Face, and advanced RAG pipelines, with hands-on experience implementing self-correcting agentic workflows, Model Context Protocol (MCP), and Pydantic structured validation. Proven track record of translating complex AI research into robust, functional implementations.
 
-- 🔭 **Currently building** — a Multi-Agent Orchestration System (Supervisor / Specialist / Reviewer architecture) using LangChain, LangGraph, PostgreSQL, Pydantic, YFinance, MCP adapters, and ChromaDB
-- 🌱 **Currently learning** — Agentic AI: LLM application evaluation and self-improving agents
-- 🤝 **Open to collaborating on** — multi-agent applications and applied ML/DL projects
-- 💬 **Ask me about** — Machine Learning, Deep Learning, fine-tuning, and agentic systems
+- **Currently building** — a Multi-Agent Orchestration System (Supervisor / Specialist / Reviewer architecture) using LangChain, LangGraph, PostgreSQL, Pydantic, YFinance, MCP adapters, and ChromaDB
+- **Currently learning** — Agentic AI: LLM application evaluation and self-improving agents
+- **Open to collaborating on** — multi-agent applications and applied ML/DL projects
+- **Ask me about** — Machine Learning, Deep Learning, fine-tuning, and agentic systems
 
 <br>
 
